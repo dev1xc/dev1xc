@@ -12,3 +12,6 @@
 
 <h2>STATUS</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev1xc&show_icons=true&theme=algolia&&count_private=true&&locale=en" alt="dev1xc" /></p>
+
+<h2>STREAK</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev1xc&theme=algolia" alt="dev1xc" /></p>

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-<a href="https://app.daily.dev/dev_1xc"><img src="https://api.daily.dev/devcards/7d5c3f83680044bc9d69584c87426474.png?r=3mw" width="300" alt="dev1xc's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/dev1xcz"><img src="https://api.daily.dev/devcards/7d5c3f83680044bc9d69584c87426474.png?r=3mw" width="300" alt="dev1xc's Dev Card" align="right"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
